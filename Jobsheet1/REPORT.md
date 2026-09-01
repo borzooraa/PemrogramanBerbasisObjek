@@ -17,7 +17,7 @@ Pada program tersebut kita menentukan speed, gear, dan juga  brand. Ada hal yang
 ## 3.2 Percobaan 2
 Hasil percobaan ini dapat dilihat pada gambar di bawah ini:
 
-![Screenshot](img/op_p1.png)
+![Screenshot](img/op_p2.png)
 
 Pada program ini, kita menambahkan child dari class bike yaitu roadBike. Karna roadBike merupakan child dari bike maka kita tidak perlu menambahkan fungsi gear, speed, dan brand. Pada class tersebut kita hanya perlu menambahkan atribut tambahan berupa tireWidth. Selain itu speednya juga bernilai 5, dengan alasan yang sama seperti pada percobaan 1.
 
