@@ -5,7 +5,7 @@
 | Kelas | TI - 2G |
 | Repository | [https://github.com/borzooraa/PemrogramanBerbasisObjek] |
 
-#LAPORAN #1 PENGANTAR KONSPE PEMROGRAMAN BERBAISS OBJEK
+#LAPORAN #1 PENGANTAR KONSPE PEMROGRAMAN BERBASIS OBJEK
 
 ## 3.1 Percobaan 1
 Hasil dari percobaan ini dapat dilihat pada gambar di bawah ini:
