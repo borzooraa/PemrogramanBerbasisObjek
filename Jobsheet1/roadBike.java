@@ -4,7 +4,7 @@ public class roadBike extends bike {
     public void setTireWidth(int width){
         tireWidth = width;
     }
-    @Override
+    @Override //jika ada method bawaan parent yang ditimpa pada kelas turunnya. 
     public void printInfo(){
         super.printInfo();
         System.out.println("Tire Width : " +tireWidth + " mm");
