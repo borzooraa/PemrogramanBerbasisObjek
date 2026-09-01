@@ -35,19 +35,21 @@ Pada kedua percobaan di atas menjelaskan mengenai konsep OOP, dan juga salah sat
 Object yang akan saya gunakan antara lain adalah
 1. Botol Minum
 
-gambar
+![Botol minum](img/botol.png)
 
 2. Kipas Angin
 
-gambar
+![Kipas Angin](img/kipas.png)
 
 3. Tas (inherintance)
 
-gambar
+![Tas Ransel](img/backpack.png)
+![Tas Selempang](img/tasSelempang.png)
 
 4. Panci (inheritance)
 
-gambar
+![Panci](img/panci.png)
+![Panci Listrik](img/panciListrik.png)
 
 dengan hasil running program seperti di bawah ini:
 1. Botol Minum
