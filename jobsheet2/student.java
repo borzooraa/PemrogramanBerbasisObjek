@@ -1,4 +1,4 @@
-package jobsheet2;
+// package jobsheet2;
 
 public class student {
     private String name, studentId;

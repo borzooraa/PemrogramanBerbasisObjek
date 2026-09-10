@@ -1,4 +1,4 @@
-package jobsheet2;
+// package jobsheet2;
 
 public class rectangle {
     int width, height;

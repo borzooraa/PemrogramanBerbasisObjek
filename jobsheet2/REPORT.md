@@ -41,5 +41,26 @@ dari sintaks yang dijalankan menghasilkan java.lung.NullPointerExeption. Namun j
 
 ![Screenshot](img/after1.png)
 
-NullPointerExeption selalu muncul jika ada method pada referensi yang belum menunjuk  ke objek manapun (null). Cara agar tidak terjadi error tersebut yaitu selalu memastikan objek benar-benar dubuat dengan new sebelum methodnya dipanggil
+NullPointerExeption selalu muncul jika ada method pada referensi yang belum menunjuk  ke objek manapun (null). Cara agar tidak terjadi error tersebut yaitu selalu memastikan objek benar-benar dubuat dengan new sebelum methodnya dipanggil.
+
+## Checkpoint 6
+
+![Screenshot](img/cp6.png)
+
+Program berhasil menampilkan baris terakhir sesuai jobsheet.
+
+## Checkpoint 7
+
+![Screenshot](img/cp7.png)
+
+terdappat 3 baris yang menampilkan area dan perimater masing-masing rectangle, kemudian di baris terakhir menmpilkan baris Nadia
+
+## TUGAS DAN DERIVALABLE
+1. Running
+
+![Screenshot](img/tugas.png)
+
+2. Jawaban
+- Objek adalah data/instance nyata yang dialokasikan di memori heap saat menggunakan perintah new. Sedangkan referensi ke objek adalah variabel pemegang alamat memori yang menunjuk ke lokasi objek tersebut berada.
+- Konstruktor dijalankan secara otomatis satu kali tepat saat objek baru diciptakan menggunakan kata kunci new. Proses ini berfungsi untuk mengalokasikan memori dan menginisialisasi nilai awal dari atribut kelas tersebut.
 
