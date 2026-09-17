@@ -26,6 +26,16 @@ Pada percobaan kali ini, atribut utama (kecepatan dan kontakOn) diubah menjadi p
 ### 3.3 Pertanyaan
 1. Hal ini dikarenakan default value dari kontakOn adalah false, dan hanya akan berubah menjadi true ketika memanggil atau menggunakan method nyalakanMesin().
 2. Agar atribut tersebut tidak bisa di akses dan diganti nilainya dengan sembarangan oleh pengguna. Jadi pengguna hanya bisa mengakses atribut tersebut secara tidak langsung lewat method yang telah ada.
-3. 
+3. Pemberian batas kecepatan dilakukan pada fungsi tambahKecepatan yang mulanya
+
+![Screenshot](img/p2p3.png)
+
+menjadi 
+
+![Screenshot](img/p2p31.png)
+
+dimana pada mulanya kecepatan tidak memiliki suatu batasan, hanya ada pengkondisian saja, bahwa kecepatan hanya akan bertambah ketika mesin menyala. Namun setelah di ubah, diberikan batasan terhadap maksimal kecepatan atau maksimal tambah kecepatan yaitu kecepatan hanya akan bertambah ketika mesin menyala dan juga nilai dari kecepatan <=100.  jika nilai kecepatan menjadi 100 maka akan muncul warning seperti pada gambar kedua di atas. Dan ketika mesin tidak nyala maka akan ada warning juga.
+
+
 
 
