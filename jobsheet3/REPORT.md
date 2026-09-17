@@ -68,4 +68,19 @@ yang dimana karna nama dan alamat sudah ditentukan sejak awal, maka ketika menam
 8. Perbedaan instansiasi dan Inisialiasi yaitu, jika insialisasi proses pemberian nilai terhadap atribut. Jika instansiasi itu proses pembuatan objek dari kelas.
 9. Istilah instansiasi dan inisialisasi method kurang tepat karena method hanya bisa di definisikan atau di deklarasikan.
 
+## 4. KESIMPULAN
+Dari percobaan diatas, telah dipelajari konsep dari enkapsulasi, konstruktor, access modifier yang terdiri dari 4 jenis yaitu public protected, default dan private. Konsep atribut dan method class yang ada di dalam blok code class dan konsep instansiasi atribut atau method. Cara penggunaan getter dan setter beserta fungsi dari getter dan setter. Dan juga telah dipelajari atau memahami notasi UML.
+
+## TUGAS
+1. Hasil running dari program yang di tuliskan di Tugas yaitu seperti di bawah ini:
+
+![Screenshot](img/tugas_r1.png)
+
+2. Nilai age tetap bernilai 30 meskipun nilai yang di inputkan adalah 35, hal ini dikarenakan pada method setAge terdapat pengkondisian jika age > 30 maka nilai age akan tetap 30. Nah karena 35 > 30, maka nilai yang ditampilkan adalah 30.
+
+
+
+
+
+
 
