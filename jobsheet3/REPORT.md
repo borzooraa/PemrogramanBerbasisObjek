@@ -100,8 +100,11 @@ menjadi
 
 ![Screenshot](img/tugas_p52.png)
 
-6. 
+6. pada perubahan atau modifikasi kali ini sekali lagi bisa di cek di github. pada folder tugas, di file testLogistikInteraktif.java, dimana saya hanya menambahkan scanner saja.
 
+7. pada tugas terkahir hasil akhirnya atau runningnya yaitu seperti di bawah ini:
+
+![Screenshot](img/tugas7.png)
 
 
 
