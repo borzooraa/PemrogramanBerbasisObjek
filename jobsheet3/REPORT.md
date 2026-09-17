@@ -36,6 +36,15 @@ menjadi
 
 dimana pada mulanya kecepatan tidak memiliki suatu batasan, hanya ada pengkondisian saja, bahwa kecepatan hanya akan bertambah ketika mesin menyala. Namun setelah di ubah, diberikan batasan terhadap maksimal kecepatan atau maksimal tambah kecepatan yaitu kecepatan hanya akan bertambah ketika mesin menyala dan juga nilai dari kecepatan <=100.  jika nilai kecepatan menjadi 100 maka akan muncul warning seperti pada gambar kedua di atas. Dan ketika mesin tidak nyala maka akan ada warning juga.
 
+### 3. 4 Percobaan 3 - Getter dan Setter
+Dalam percobaan ketiga, mencoba membuat dan memahami getter dan setter. Dimana dalam percobaan kali ini mengubah simpanan tidak dilakukan dengan mengubah atribut simpanan secara langsung, melainkan melalui method setor.
+
+untuk hasil running dari percobaan ketiga yaitu seperti di bawah ini:
+
+![Screenshot](img/p3_r.png)
+
+dimana hasil running sama seperti di jobshet, kkecuali nama anggota yang saya ubah menjadi nama saya sendiri.
+
 
 
 
