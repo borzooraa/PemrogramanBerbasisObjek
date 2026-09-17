@@ -78,6 +78,22 @@ Dari percobaan diatas, telah dipelajari konsep dari enkapsulasi, konstruktor, ac
 
 2. Nilai age tetap bernilai 30 meskipun nilai yang di inputkan adalah 35, hal ini dikarenakan pada method setAge terdapat pengkondisian jika age > 30 maka nilai age akan tetap 30. Nah karena 35 > 30, maka nilai yang ditampilkan adalah 30.
 
+3. Batasan nilai minimal usia 18 dan maksimal 30 di ubah pada potongan program yang mulanya:
+
+![Screenshot](img/tugas_p31.png)
+
+menjadi 
+
+![Screenshot](img/tugas_p32.png)
+
+4. Untuk melihat class kontainer bisa di lihat di github, di bagian folder tugas dengan nama class kontainer.java. Dimana disana telah memenuhi semua syarat dari tugas, dengan hasil running di bawah ini:
+
+![Screenshot](img/tugas_p4.png)
+
+yaitu merupakan hasil yang sama seperti yang di harapkan pada tugas di jobsheet 3.
+
+5. 
+
 
 
 
