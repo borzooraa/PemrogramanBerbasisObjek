@@ -92,7 +92,15 @@ menjadi
 
 yaitu merupakan hasil yang sama seperti yang di harapkan pada tugas di jobsheet 3.
 
-5. 
+5. modifikasi program terdapat di 
+
+![Screenshot](img/tugas_p51.png)
+
+menjadi
+
+![Screenshot](img/tugas_p52.png)
+
+
 
 
 
