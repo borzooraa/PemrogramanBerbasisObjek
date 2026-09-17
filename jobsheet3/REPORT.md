@@ -100,7 +100,7 @@ menjadi
 
 ![Screenshot](img/tugas_p52.png)
 
-
+6. 
 
 
 
