@@ -45,6 +45,27 @@ untuk hasil running dari percobaan ketiga yaitu seperti di bawah ini:
 
 dimana hasil running sama seperti di jobshet, kkecuali nama anggota yang saya ubah menjadi nama saya sendiri.
 
+### 3.5 Percobaan 4 - Konstruktor, Instansiasi
+Pada percobaan keempat, menambahkan tampilan saldo awal anggota yang bila di running akan menjadi seperti:
 
+![Screenshot](img/p4_r1.png)
+
+kemudian menambahkan konstruktor berparameter nama dan alamat, serta pada konstruktor tersebut di pastikan bahwa nilai simpanan awal adalah 0.
+Kemudian setelah itu, ketika instansiasi harus langsung ditambahkan parameternya. Untuk hasil runningnya seperti di bawah ini:
+
+![Screenshot](img/p4_running.png)
+
+yang dimana karna nama dan alamat sudah ditentukan sejak awal, maka ketika menampilkan banyak saldo sudah ada nama anggota dan juga saldo awal (karena memang belum setor sesuatu) tanpa harus mengetik lebih banyak codingan.
+
+### 3.6 Pertanyaan - Percobaan 3 dan 4
+1. Getter adalah public method dan memiliki tipe data return, yang berfungsi untuk mendapatkan nilai dari atribut private.  Sementara setter adalah public method yang tidak memiliki tipe data return, yang berfungsi untuk memanipulasi nilai dari atribut private.
+2. Keguanaan method getSimpanan() yaitu untuk menegmbalikan atau menampilkan saldo dari anggota. Jika dijelaskan dengan bahasa teknis maka getSimpanan() akan mereturn nilai simpanan, dimana nilai simpanan tersbeut didapatkan dari method setor dan juga pinjam.
+3. setor()
+4. Konstruktor yaitu suatu method yang akan di eksekusi pertama kali ketika membuat suatu objek atau menginstasiasi suatu objek. Dimana konstruktor tidak memiliki tipe data return, memiliki nama yang smaa dengan class, dan juga tidak boleh memiliki akses modifier.
+5. Aturannya sama seperti yang saya jelaskan pada nomor 4, yaitu nama konstruktor harus sama dengan nama class, kemudian konstruktor tidak memiliki tipe data return, dan juga konstruktor tidak boleh memiliki akses modifier abstract, static, final, dan synchronalized.
+6. Boleh, dan tidak akan error. Tetapi tidak disarankan, karena jika menggunakan modifier private maka tidak akan bisa di eksekusi atau di instasiasi di class yang berbeda. Tetapi ada beberapa kasus yang bisa menggunaan modifier private terhadap konstruktor, dan memang diperlukan seperti itu.
+7. Ketika ada nilai atau atriut yang memang harus selalu dijalanakan atau di eksekusi sejak dibuatnya objek tersebut/ketika objek tersbeut pertama dijalankan.
+8. Perbedaan instansiasi dan Inisialiasi yaitu, jika insialisasi proses pemberian nilai terhadap atribut. Jika instansiasi itu proses pembuatan objek dari kelas.
+9. Istilah instansiasi dan inisialisasi method kurang tepat karena method hanya bisa di definisikan atau di deklarasikan.
 
 
